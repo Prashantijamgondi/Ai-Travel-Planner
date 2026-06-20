@@ -1,4 +1,4 @@
-# AI Travel Planner
+# AI Travel Planner LIVE- https://ai-travel-planner-lemon-seven.vercel.app/
 
 A full-stack, multi-user AI Travel Planner built with **Next.js**, **Express.js**, **MongoDB Atlas**, and **Google Gemini API**. The app lets users register, log in, generate travel itineraries, edit day-by-day activities, estimate budgets, and maintain a weather-aware packing checklist. The frontend uses the Next.js App Router, and the backend provides authenticated REST APIs protected with JWT. [cite:32][cite:35][cite:4]
 
